@@ -1,6 +1,7 @@
 # Dokumentácia Journey aplikácie
 ---
-> ## *O aplikácii*
+> ## *O aplikácii:*
+> ###### Autor: Bc. Lukáš Lobl
 > ### Základné informácie:
 > - **Aplikácia slúži na plánovanie výletov, trás rôznymi dopravnými prostriedkami,
 > ktoré môžu byť rôzne spájané**
