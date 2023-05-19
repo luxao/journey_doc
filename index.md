@@ -1,15 +1,26 @@
 # Dokumentácia Journey aplikácie
 ---
 > ## *O aplikácii*
-> Aplikácia bola vytvorená v rámci zadania diplomovej práce
-> Dokumentácia bude dorobená čoskoro
->
-> ...
+> ### Základné informácie:
+> - **Aplikácia slúži na plánovanie výletov, trás rôznymi dopravnými prostriedkami,
+> ktoré môžu byť rôzne spájané**
+> - **Umožňuje prezerať rôzne miesta, informácie o mieste, pridávanie poznámok a informácií
+> o rezervácii miesta**
+> - **Umožňuje zdieľať vytvorenú trasu prostredníctvom e-mailu a iných**
+> - **Možnosť nájdenia a požiadania o sledovanie  priateľov, alebo iných ľudí**
+> - **Po potvrdení sledovania používateľ môže prezerať profil a vytvorené výletý sledovaného používateľa**
+> 
+> ###### Aplikácia bola vytvorená v rámci zadania diplomovej práce
+> ---
+
 
 
 # Prihlásenie do aplikácie
 ---
->...
+> **Registrácia a prihlásenie používateľa pomocou Google účtu**
+> ..
+> tu bude obrázok
+> ..
 
 # Plánovanie výletu
 ---
