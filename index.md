@@ -162,3 +162,7 @@
 >
 ![All text](Screenshot_20230521_215305_Journeys.jpg)
 >
+
+---
+#### Aplikácia bude a je naďalej vyvíjaná 
+> © Bc. Lukáš Lobl 2023
